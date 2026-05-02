@@ -42,10 +42,27 @@ Instead of finding keys, players must **learn string concepts** and then **solve
 
 ### 🔹 Level Environment & Gameplay
 
+#### 🖼️ Output 1 
 ![Output 1](output/output-1.png)
+
+<br>
+
+#### 🖼️ Output 2 
 ![Output 2](output/output-2.png)
+
+<br>
+
+#### 🖼️ Output 3 
 ![Output 3](output/output-3.png)
+
+<br>
+
+#### 🖼️ Output 4
 ![Output 4](output/output-4.png)
+
+<br>
+
+#### 🖼️ Output 5 
 ![Output 5](output/output-5.png)
 
 ---
